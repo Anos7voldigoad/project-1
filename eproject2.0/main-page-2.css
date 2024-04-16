@@ -1,0 +1,95 @@
+
+
+#u{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    display: flex;
+    justify-content: center;
+    text-transform: capitalize;
+    padding: 50px;
+    font-size: 24px;
+    word-spacing: 2px;
+    initial-letter:inherit;
+    
+}
+
+#i{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: left;
+    display: flex;
+    justify-items: center;
+    text-transform: capitalize;
+    padding: 50px;
+    font-size: 23px;
+    word-spacing: 3px;
+    
+}
+#r{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 100px;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    background-image: url("zany-jadraque-ZCRtfop2hZY-unsplash.jpg");
+   
+}
+
+#t{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 100px;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+   background-position: center;
+    background-image: url("nenad-radojcic-RF5U8BkaQHU-unsplash.jpg");
+   
+}
+#y{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 100px;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+   background-position: center;
+    background-image: url("jeremy-ricketts-FGvRZ-BeCKo-unsplash.jpg");
+   
+}
+
+#p{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 100px;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+   background-position: center;
+    background-image: url("ran-ding-QgrQVM3A04A-unsplash.jpg");
+   
+}
+
+
+
+#one{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+hr{
+    height: 2px;
+    padding: 0;
+    margin: 0;
+}
+
+#j{
+    padding: 20px;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+    font-stretch: extra-expanded;
+    color:#0a7eb0;
+    font-size:60px;
+    display: flex;
+    justify-content: center;  
+    text-transform: capitalize;
+}
